@@ -1,0 +1,11 @@
+.rectangle {
+    height: 50px;
+    width: 300px;
+    background-color: white;
+    border:5px solid rgb(122, 218, 224);
+  }
+
+.colorAlign {
+  text-align: right;
+  padding-left: 180px;
+}
